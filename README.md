@@ -4,7 +4,7 @@
 
 ### RUST
 
-rustlings 110题 https://github.com/LearningOS/rust-rustlings-2024-spring-zhouyecs（已完成）
+rustlings 110题 https://github.com/LearningOS/rust-rustlings-2024-spring-zhouyecs （已完成）
 
 rust语言圣经 https://course.rs
 
@@ -12,9 +12,9 @@ rust练习实践 https://practice-zh.course.rs/
 
 rust by example https://doc.rust-lang.org/rust-by-example/
 
-半小时学习rust https://fasterthanli.me/articles/a-half-hour-to-learn-rust（已完成）
+半小时学习rust https://fasterthanli.me/articles/a-half-hour-to-learn-rust （已完成）
 
-rust algorithm club https://rust-algo.club/（已完成）
+rust algorithm club https://rust-algo.club/ （已完成）
 
 《rust实战》https://www.amazon.com/Rust-Action-TS-McNamara/dp/1617294551
 
@@ -50,4 +50,4 @@ https://github.com/LearningOS/2024s-rcore-zhouyecs
 
 ### 5.8
 
-完成ch3练习
+完成 ch3 练习，观看第一节课录播
