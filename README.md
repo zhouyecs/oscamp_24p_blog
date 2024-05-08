@@ -50,4 +50,4 @@ https://github.com/LearningOS/2024s-rcore-zhouyecs
 
 ### 5.8
 
-完成 ch3 练习，观看第一节课录播
+完成 ch3 练习，观看第一、二节课录播
