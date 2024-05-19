@@ -55,3 +55,7 @@ https://github.com/LearningOS/2024s-rcore-zhouyecs
 ### 5.10
 
 学习第四章，观看第三节课录播
+
+### 5.19
+
+完成第四章练习，本地运行通过，但是在github上运行出错，乐（
